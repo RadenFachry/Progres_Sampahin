@@ -1,0 +1,39 @@
+html body{
+    height: 100%;
+    background-image: linear-gradient(to right bottom, #598ddc, #3b95da, #229cd3, #1ba2ca, #2da6c0);
+    
+
+}
+.text-center{
+    text-align: center;
+    padding: 0 0 25px 0;
+    border-bottom: 1px solid silver;
+}
+.container{
+    max-width: 700px;
+    width: 100%;
+    background: rgb(255, 255, 255);
+    padding: 25px 30px;
+    border-radius: 20px;
+    height: 100%;
+    
+}
+form .button{
+    height: 45px;
+    margin: 45px 0;
+}
+
+form .button input{
+    color: #fff;
+    height: 100%;
+    width: 100%;
+    border-radius: 5%;
+    outline: none;
+    border: none;
+    background:#6981af
+    ;
+}
+
+.signup_link{
+    text-align: center;
+}
