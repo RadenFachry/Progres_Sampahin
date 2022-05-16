@@ -22,7 +22,7 @@ $id_user =$_SESSION['username'];
             <link rel="shortcut icon" type="image/png" href="images/logo.png">
             <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.1/font/bootstrap-icons.css">
 
-        <title>Resampah</title>
+        <title>Sampahin</title>
         <link rel="stylesheet" href="mainmenu_history.css">
     </head>
     <body>
@@ -31,11 +31,11 @@ $id_user =$_SESSION['username'];
                 <ul class="sidebar-nav">
                     <li class="sidebar-brand">
                         <a href="mainmenu_home.php">
-                            Resampah
+                            Sampahini
                         </a>
                     </li>
                     <li>
-                        <a class="bi bi-house-door-fill mb-2" href="mainmenu_home.php"> Home</a>
+                        <a class="bi bi-house-door-fill mb-2" href="mainmenu_home.php"> Beranda</a>
                     </li>
                     <li>
                         <a class="bi bi-archive-fill mb-2" href="mainmenu_home_copy.php"> Pengambilan</a>

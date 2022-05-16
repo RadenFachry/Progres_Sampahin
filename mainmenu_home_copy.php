@@ -65,6 +65,8 @@ $id_user =$_SESSION['username'];
                                     <input type="hidden" name="id_user" value="<?php echo $id_user ?>">
                                     <h2 class ="text-center bi bi-trash"> Pengambilan Sampah</h2><br>
                                     <div class="form-group ">
+
+                                        <label>Name</label>
                                         <label>nama</label>
                                         <input type="text" name="nama" class="form-control" placeholder="Masukkan Nama" required ><br>
                     

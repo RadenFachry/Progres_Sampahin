@@ -22,7 +22,7 @@ $id_user =$_SESSION['username'];
             <link rel="shortcut icon" type="image/png" href="images/logo.png">
             <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.1/font/bootstrap-icons.css">
 
-        <title>Resampah</title>
+        <title>sampahin</title>
         <link rel="stylesheet" href="mainmenu_contact.css">
     </head>
     <body>
